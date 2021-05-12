@@ -1,7 +1,7 @@
 <?php
 $key=$_GET['subject'];
 
-<?php echo "$key"; ?>
+
 
 ?>
 
